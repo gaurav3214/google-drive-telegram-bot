@@ -1,13 +1,13 @@
 class config:
-    BOT_TOKEN = "5712359945:AAEIW7q4gK0PlN-fbIu5_dkNEpw2hmLOyYA"
+    BOT_TOKEN = "5507782618:AAG3Vb7vBMrvCp6UbEzHveZPjLdeNTs_UgE"
     APP_ID = "12540447"
     API_HASH = "206d8980ac67c82b562ac7b6baacc95c"
-    DATABASE_URL = "postgres://rpvfwhvdwyormn:57f81f6074dcabf1ea126b3c33883710a1b6725d2b1bad190fc18a6a432a4aff@ec2-44-210-36-247.compute-1.amazonaws.com:5432/dae6f4vntdp01t"
+    DATABASE_URL = "postgres://isesaxaxxmtccd:c68bbb6bd7bcee5ee8c9d19cccf014143ae1d5611167a74ab4310c84daad6c52@ec2-44-210-36-247.compute-1.amazonaws.com:5432/d54fjgjedc1r2e"
     SUDO_USERS = "1704320421 1323226625" # Sepearted by space.
-    SUPPORT_CHAT_LINK = "https://t.me/gbisgreatbot"
+    SUPPORT_CHAT_LINK = "https://t.me/ggggggtttttyyyyffff"
     DOWNLOAD_DIRECTORY = "./downloads/"
-    G_DRIVE_CLIENT_ID = ""
-    G_DRIVE_CLIENT_SECRET = ""
+    G_DRIVE_CLIENT_ID = "680540043868-mdoof8hln8ug9rpcqkjtkuhqg71mcsev.apps.googleusercontent.com"
+    G_DRIVE_CLIENT_SECRET = "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"
 
 
 class BotCommands:
